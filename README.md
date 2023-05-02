@@ -1,4 +1,4 @@
-![image] (./assets/fireside_nobg_title.png)
+![image](assets/fireside_nobg_title_300px.png)
 
 
 # Getting Started with Create React App
